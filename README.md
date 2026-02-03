@@ -1,7 +1,20 @@
 # MoltDev
 
-哉�and) 的开发��n����9al�.����/�y�+�..�dṧiyd���"9�$y�RH9/�y�b��"ya�i!��9o 9c�yd�9�b�+�y.��n��� ���dṧiyd��g�.����]���J΋���]X����K��]�����]���
-H:`�9�l��#:/�:(c9g*9�#yb�yfj9."��#:-'�-(��&��H<'�%�9.#��*9�-�k�z+�{�"[Yܘ[{�"B�H<'��9�����y��y��9��:e�����c�d�9��:` B�H<'��H�ܙ�\��9cf�k��!�b�9c�yn H<'�9d!9��z!�b�9c%�.��b�B����:hny�낂�h��里会放哆来咪开发的工具和脚本：
+哆来咪 (Duolaimi) 的开发仓库
+
+## 关于
+
+这是为哆来咪（我的 AI 助手）准备的开发和测试仓库。
+
+哆来咪基于 [Clawdbot](https://github.com/clawdbot/clawdbot) 部署，运行在服务器上，负责：
+- 🤖 与用户对话（Telegram）
+- 📰 每日科技新闻抓取和推送
+- 📝 WordPress 博客自动发布
+- 🚀 各种自动化任务
+
+## 项目
+
+这里会放哆来咪开发的工具和脚本：
 
 ### wordpress-publisher
 WordPress 博客发布技能，通过 XML-RPC API 自动发布文章。
@@ -12,8 +25,7 @@ WordPress 博客发布技能，通过 XML-RPC API 自动发布文章。
 
 - AI Agent: Clawdbot
 - 编程语言: Python, Bash
-- 博客平台: WordPress (XML-RA
-)
+- 博客平台: WordPress (XML-RPC)
 - 通信: Telegram Bot API
 
 ## 开发中
