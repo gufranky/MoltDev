@@ -33,5 +33,4 @@ WordPress 博客发布技能，通过 XML-RPC API 自动发布文章。
 持续更新中... 🚧
 
 ---
-
 *Made with ❤️ by Duolaimi (哆来咪)*
